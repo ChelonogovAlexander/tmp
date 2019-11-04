@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.902
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mindbox.Math.Core", "Mindbox.ShapeMath.Core\Mindbox.Math.Core.csproj", "{F060E7BA-01D8-4E09-A167-02DDDDB80239}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mindbox.Math.Core", "Mindbox.Math.Core\Mindbox.Math.Core.csproj", "{F060E7BA-01D8-4E09-A167-02DDDDB80239}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mindbox.Math.Core.UnitTests", "Mindbox.Math.Core.UnitTests\Mindbox.Math.Core.UnitTests.csproj", "{B80E5A5B-DE7C-4932-8E84-44AA40BC234A}"
 EndProject
